@@ -1,16 +1,5 @@
-# React + Vite
+This is a Movie Search Website. You can search movies here and favorite them. Movies are pulled using The Movie DB api.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="2128" height="1224" alt="image" src="https://github.com/user-attachments/assets/e895e52d-f49b-4677-bc56-e9106d48fba6" />
+<img width="2105" height="1218" alt="image" src="https://github.com/user-attachments/assets/2b896da9-b2a7-4dd7-8741-3c8fd0149ea1" />
+<img width="2133" height="1218" alt="image" src="https://github.com/user-attachments/assets/d3290aed-91e6-4e5b-a3cc-7d38ea50df23" />
